@@ -1,0 +1,27 @@
+**Database Name: internetbanking**
+
+**Developed by Yashav Shukla**
+
+**Recommended PHP Version 5, 7, 8**
+
+
+**Admin Login Details**
+
+Email	: remi@16012004@gmail.com
+Password: Tb@01012000
+
+
+**Staff Login Details**
+
+Email	: anandpandey@apollo.it
+Password: anand@1234
+
+**Client Login Details**
+
+Email	: NA
+Password: NA
+
+
+
+
+
